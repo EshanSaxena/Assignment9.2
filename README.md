@@ -1,5 +1,5 @@
 # Assignment9.2
-reate a constructor function Airplane that takes following parameter
+Create a constructor function Airplane that takes following parameter
 model, seating capacity, max speed
 and returns objects with following properties
 model, seating capacity, max speed and print method
